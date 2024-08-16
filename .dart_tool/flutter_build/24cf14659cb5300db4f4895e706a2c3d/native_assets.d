@@ -1,0 +1,1 @@
+ /Users/erparas89/Downloads/UI-main/tesla/.dart_tool/flutter_build/24cf14659cb5300db4f4895e706a2c3d/native_assets.yaml: 
